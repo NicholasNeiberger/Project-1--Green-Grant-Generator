@@ -26,3 +26,24 @@ It then creates a full, customized grant-writing prompt you can use with ChatGPT
 2. Make sure you have Python + Streamlit installed:
    ```bash
    pip install streamlit
+🎯 Built With
+Python
+
+Streamlit
+
+🔄 Future Upgrades
+API integration with OpenAI GPT
+
+Editable output + download options
+
+DOCX/PDF export
+
+Feedback loop + KPI analytics
+
+This project is part of my professional portfolio. It demonstrates:
+
+Prompt engineering for sustainability use cases
+
+UX design for data input
+
+Project management skills (scope, iteration, delivery)
